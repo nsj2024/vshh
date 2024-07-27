@@ -1,0 +1,1 @@
+Use Resilience4J dependency for circuit Breaker
